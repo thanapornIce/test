@@ -15,8 +15,8 @@
 ````
 
 ค้นว่า yolov11 ที่ github และทำตามขั้นตอนติดตั้งแพ็กเกจ ultralytics (ซึ่งรวมถึง YOLOv8 และเครื่องมืออื่น ๆ) ผ่าน pip ในสภาพแวดล้อม Python ที่มีเวอร์ชัน ตั้งแต่ 3.8 ขึ้นไป และ ติดตั้ง PyTorch เวอร์ชัน 1.8 หรือใหม่กว่า แล้ว
- ```bash
-  pip install ultralytics
+    ```bash
+     pip install ultralytics
 ````
 
 
