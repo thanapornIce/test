@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['bomb', 'gun', 'knife']
+
+roboflow:
+  workspace: model-qeecc
+  project: train-gfebi
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/model-qeecc/train-gfebi/dataset/2
